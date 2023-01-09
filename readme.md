@@ -31,3 +31,5 @@ This will use the default key 't' for the keybinds, use the default path for the
 ## Note
 
 Please ensure that you have the necessary permissions to inject DLLs into the Vtuber Maker process. The injector is provided as-is and the author is not responsible for any damages or unintended consequences that may occur from its use. Use at your own risk.
+
+This readme was written using ChatGPT.
